@@ -1,0 +1,17 @@
+C:\Users\Acer\source\repos\client\bin\Debug\client.exe.config
+C:\Users\Acer\source\repos\client\bin\Debug\client.exe
+C:\Users\Acer\source\repos\client\bin\Debug\client.pdb
+C:\Users\Acer\source\repos\client\bin\Debug\client.xml
+C:\Users\Acer\source\repos\client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\source\repos\client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\source\repos\client\obj\Debug\client.vbproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\client\obj\Debug\client.CreateSubmissionForm.resources
+C:\Users\Acer\source\repos\client\obj\Debug\client.Form1.resources
+C:\Users\Acer\source\repos\client\obj\Debug\client.Resources.resources
+C:\Users\Acer\source\repos\client\obj\Debug\client.ViewSubmissionsForm.resources
+C:\Users\Acer\source\repos\client\obj\Debug\client.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\client\obj\Debug\client.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\client\obj\Debug\client.vbproj.Up2Date
+C:\Users\Acer\source\repos\client\obj\Debug\client.exe
+C:\Users\Acer\source\repos\client\obj\Debug\client.xml
+C:\Users\Acer\source\repos\client\obj\Debug\client.pdb
