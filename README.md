@@ -6,7 +6,7 @@ This Windows Desktop Application is designed to replicate the functionality of G
 It allows users to create new submissions with various fields and view submitted entries sequentially. 
 The application is built using Visual Basic in Visual Studio and includes basic CRUD operations for managing submissions.
 
-## Features
+## 🌟 Features
 - **Create New Submission:**
   - Enter details such as Name, Email, Phone Number, and a GitHub repo link.
   - Start and pause a stopwatch.
@@ -23,7 +23,7 @@ The application is built using Visual Basic in Visual Studio and includes basic 
 - Windows Desktop Environment
 - Visual Studio (preferably 2019 or later) with Visual Basic support
 
-## Setup Instructions
+## 🚦 Setup Instructions
 
 1. **Clone the repository:** git clone `https://github.com/anuragino/SidelyAIDesktop.git`
 2. Navigate to `File > Open > Project/Solution`
